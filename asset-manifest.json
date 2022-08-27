@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-daily-task-router/static/css/main.8b6a6555.css",
-    "main.js": "/react-daily-task-router/static/js/main.7bc5f44b.js",
-    "static/js/787.452db6da.chunk.js": "/react-daily-task-router/static/js/787.452db6da.chunk.js",
+    "main.js": "/react-daily-task-router/static/js/main.90bf3975.js",
+    "static/js/440.7fe3c81a.chunk.js": "/react-daily-task-router/static/js/440.7fe3c81a.chunk.js",
     "index.html": "/react-daily-task-router/index.html",
     "main.8b6a6555.css.map": "/react-daily-task-router/static/css/main.8b6a6555.css.map",
-    "main.7bc5f44b.js.map": "/react-daily-task-router/static/js/main.7bc5f44b.js.map",
-    "787.452db6da.chunk.js.map": "/react-daily-task-router/static/js/787.452db6da.chunk.js.map"
+    "main.90bf3975.js.map": "/react-daily-task-router/static/js/main.90bf3975.js.map",
+    "440.7fe3c81a.chunk.js.map": "/react-daily-task-router/static/js/440.7fe3c81a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b6a6555.css",
-    "static/js/main.7bc5f44b.js"
+    "static/js/main.90bf3975.js"
   ]
 }
